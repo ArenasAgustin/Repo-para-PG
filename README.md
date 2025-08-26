@@ -185,10 +185,6 @@ Cuando se quiere modificar algún dato del negocio se hace desde la página de a
 https://user-images.githubusercontent.com/72575052/141362363-1eff9a11-bd36-49ea-baf9-eb6d97dfaab7.mp4
 
 
-## Link del proyecto deployado
-
-https://proyecto-grupal-18c81.web.app
-
 ## Link del video de presentación
 
 https://vimeo.com/645357740
